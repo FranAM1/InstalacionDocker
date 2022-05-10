@@ -28,7 +28,7 @@ $ echo \
 
 ```
 
-# 3 Instalación Docker
+# 3 Instalación última version de Docker
 ```
 $ sudo apt-get update
 ...
