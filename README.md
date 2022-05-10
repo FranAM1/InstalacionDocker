@@ -1,4 +1,5 @@
 # InstalacionDocker
+Instalación de *Docker* siguienda la guia de [docker docs](https://docs.docker.com/engine/install/ubuntu/)
 
 # 1 Verificar que no haya ninguna version anterior
 ```
